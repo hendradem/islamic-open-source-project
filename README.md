@@ -1,5 +1,5 @@
 # islamic-open-source-project
-Islamic open source project
+:sunrise_over_mountains: Islamic open source project. Hope we can help islam with our contribute. Open for hacktoberfest :muscle:
 
 
 
