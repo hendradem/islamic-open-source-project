@@ -1,5 +1,6 @@
 # islamic-open-source-project
-:sunrise_over_mountains: Islamic open source project. Hope we can help islam with our contribute. Open for hacktoberfest :muscle:
+:sunrise_over_mountains: Islamic open source project. Hope we can help islam with our contribute. Open for hacktoberfest :muscle: 
+For contributing please read here <a href="https://github.com/hendradem/islamic-open-source-project/blob/main/CONTRIBUTING">How to Contribute</a>
 
 
 
