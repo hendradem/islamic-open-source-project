@@ -11,7 +11,7 @@ Islamic open source project
 
 
 # Mobile App
-<a href="https://github.com/mazipan-quran-offline">https://github.com/ahmadzuh/Yukkajian</a> - Yuk Kajian Android Apps
+<a href="https://github.com/mazipan-quran-offline">Yuk Kajian App</a> - Yuk Kajian Android Apps
 
 
 
