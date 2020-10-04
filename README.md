@@ -9,6 +9,8 @@ For contributing please read here <a href="https://github.com/hendradem/islamic-
 
 <a href="https://github.com/mazipan-quran-offline">Quran Offline</a> - Quran Offline Webapp
 
+<a href="https://github.com/rizaumami/quran-epub">quran-epub</a> - Al Qur'an Terjemah Bahasa Indonesia | http://tanzil.net
+
 
 
 # Mobile App
