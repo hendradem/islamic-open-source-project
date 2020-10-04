@@ -11,6 +11,8 @@ For contributing please read here <a href="https://github.com/hendradem/islamic-
 
 <a href="https://github.com/rizaumami/quran-epub">quran-epub</a> - Al Qur'an Terjemah Bahasa Indonesia | http://tanzil.net
 
+<a href="https://www.tokopedia.com/s/quran">Al - Qur'an</a> - Al - Qur'an online by tokopedia
+
 
 
 # Mobile App
