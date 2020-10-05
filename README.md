@@ -18,6 +18,7 @@ For contributing please read here <a href="https://github.com/hendradem/islamic-
 # Mobile App
 <a href="https://github.com/mazipan-quran-offline">Yuk Kajian App</a> - Yuk Kajian Android Apps
 
+<a href="https://github.com/MahmoudMabrok/QuranyApp">QuranyApp</a> - Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 
 
 
