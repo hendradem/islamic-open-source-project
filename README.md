@@ -20,6 +20,7 @@ For contributing please read here <a href="https://github.com/hendradem/islamic-
 
 <a href="https://github.com/MahmoudMabrok/QuranyApp">QuranyApp</a> - Open Source HolyQuran app that provide Read, Listen, Tafseer, Test all of them and app is very small size
 
+<a href="https://github.com/abuazzam/JadwalSholat">JadwalSholat<a/> - Aplikasi sederhana untuk menampilkan jadwal sholat berdasarkan pilihan kota yang ada
 
 
 # API
